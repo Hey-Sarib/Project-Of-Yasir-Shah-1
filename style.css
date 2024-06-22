@@ -202,7 +202,7 @@ textarea {
 /* Home Banner Start */
 
 #home-banner {
-    background: url('/Home\ Banner\ Background.png');
+    background: url('Home\ Banner\ Background.png');
     margin-top: 72px;
     padding: 50px 0px;
 }
